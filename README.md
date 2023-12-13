@@ -19,7 +19,7 @@ This is a simple project for a basic calculator using Python language and Tkinte
 3. Run the calculator.py script using a Python interpreter.
 
 ## Screenshots
-![Calculator Screenshot ](C:\Users\Said Lehoufi\Desktop\Python\basic_calculator\screenshot.png)
+![Calculator Screenshot ](https://raw.githubusercontent.com/OctuMan/basic_calculator/master/screenshot.png)
 
 
 ## Contributing
