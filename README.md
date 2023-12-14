@@ -28,6 +28,6 @@ Feel free to contribute to the project by submitting issues or pull requests. Yo
 License
 This calculator project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
 
-Acknowledgments
+## Acknowledgments
 Thanks to the Python and Tkinter communities for providing robust tools for GUI development.
 Happy calculating! 🧮
